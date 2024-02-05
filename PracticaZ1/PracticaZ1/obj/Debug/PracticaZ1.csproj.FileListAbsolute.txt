@@ -1,0 +1,11 @@
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\bin\Debug\PracticaZ1.exe.config
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\bin\Debug\PracticaZ1.exe
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\bin\Debug\PracticaZ1.pdb
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.csproj.AssemblyReference.cache
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.csproj.SuggestedBindingRedirects.cache
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.Form1.resources
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.Properties.Resources.resources
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.csproj.GenerateResource.cache
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.csproj.CoreCompileInputs.cache
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.exe
+C:\Users\79507\source\repos\PracticaZ1\PracticaZ1\obj\Debug\PracticaZ1.pdb
